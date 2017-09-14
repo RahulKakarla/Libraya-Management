@@ -1,0 +1,4 @@
+1 dict bk_1 5
+2 hello bk_2 5
+3 dgp bk_3 4
+4 mani bk_4 4

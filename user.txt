@@ -1,0 +1,4 @@
+admin admin 1
+rmass password 2
+rkaka password 2
+cbasavaraj password 2
